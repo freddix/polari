@@ -1,11 +1,11 @@
-Summary:	IRC client for GNOME 3
+Summary:	IRC client for GNOME
 Name:		polari
-Version:	3.12.1
+Version:	3.14.0
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications/Networking
-Source0:	http://ftp.gnome.org/pub/GNOME/sources/polari/3.12/%{name}-%{version}.tar.xz
-# Source0-md5:	284659630698500150bc6dda1ce612a1
+Source0:	http://ftp.gnome.org/pub/GNOME/sources/polari/3.14/%{name}-%{version}.tar.xz
+# Source0-md5:	255550d3cdd5aacb0826c986806ffddc
 URL:		https://wiki.gnome.org/Apps/Polari
 BuildRequires:	gettext-devel
 BuildRequires:	gobject-introspection-devel
